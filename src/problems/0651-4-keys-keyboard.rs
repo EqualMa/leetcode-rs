@@ -85,7 +85,7 @@ mod tests {
     fn problem_0651() {
         for solve in [
             //
-            // super::recursion::solve,
+            super::recursion::solve,
             super::dp::solve,
         ] {
             assert_eq!(solve(0), 0);
