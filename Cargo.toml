@@ -1,6 +1,6 @@
 [package]
 name = "leetcode-rs"
-version = "0.1.0" # replace version
+version = "1.0.0" # replace version
 description = "Solutions to leetcode in rust"
 license = "MIT"
 keywords = [
