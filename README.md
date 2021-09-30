@@ -1,3 +1,3 @@
-# leetcode-rs
+# solve-leetcode-rs
 
 Solutions to leetcode problems in Rust
