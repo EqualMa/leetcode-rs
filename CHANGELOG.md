@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/EqualMa/solve-leetcode-rs/compare/v1.0.0...v1.1.0) (2021-09-30)
+
+
+### Features
+
+* rename crate to solve-leetcode ([c141e34](https://github.com/EqualMa/solve-leetcode-rs/commit/c141e34515c0d8422f7590b04d4ce310714a67c9))
+
 # 1.0.0 (2021-09-30)
 
 
