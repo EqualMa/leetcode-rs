@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/EqualMa/solve-leetcode-rs/compare/v1.2.0...v1.3.0) (2021-10-11)
+
+
+### Features
+
+* problem 0300 ([b7cf261](https://github.com/EqualMa/solve-leetcode-rs/commit/b7cf2618f193c2dfee9b93e50f09a2cd2e9f38ed))
+
 # [1.2.0](https://github.com/EqualMa/solve-leetcode-rs/compare/v1.1.0...v1.2.0) (2021-10-11)
 
 
