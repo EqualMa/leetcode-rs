@@ -12,3 +12,8 @@ pub use problem_0651 as problem_4_keys_keyboard;
 pub mod problem_0877;
 pub use problem_0877 as problem_877;
 pub use problem_0877 as problem_stone_game;
+
+#[path = "0300-longest-increasing-subsequence.rs"]
+pub mod problem_0300;
+pub use problem_0300 as problem_300;
+pub use problem_0300 as problem_longest_increasing_subsequence;
